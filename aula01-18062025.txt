@@ -1,1 +1,7 @@
 utlizando do github pela primeira vez...
+TTY é um terminal de texto no Linux, usado para acessar o sistema via comandos, mesmo sem o modo gráfico.
+sudo apt 
+sudo apt update
+sudo apt upgrade
+sudo apt full-upgrade
+sudo apt dist-upgrade
